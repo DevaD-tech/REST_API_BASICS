@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7383" started-at="2020-04-10T20:09:42 IST" finished-at="2020-04-10T20:09:49 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7383" started-at="2020-04-10T20:09:42 IST" finished-at="2020-04-10T20:09:49 IST">
+      <class name="TC007_GET_REQUEST_AUTHROZITION">
+        <test-method status="PASS" signature="Authorization()[pri:0, instance:TC007_GET_REQUEST_AUTHROZITION@1c3a4799]" name="Authorization" duration-ms="7348" started-at="2020-04-10T20:09:42 IST" finished-at="2020-04-10T20:09:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Authorization -->
+      </class> <!-- TC007_GET_REQUEST_AUTHROZITION -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
